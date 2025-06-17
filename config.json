@@ -1,0 +1,12 @@
+{
+  "juan.perez@tuempresa.com": [
+    { "nombre": "Jefe de Turno", "destino": "webextel:1001" },
+    { "nombre": "Soporte Técnico", "destino": "tel:+573001112222" },
+    { "nombre": "Emergencias", "destino": "tel:+573003334444" }
+  ],
+  "default": [
+    { "nombre": "Recepción", "destino": "webextel:1000" },
+    { "nombre": "Soporte TI", "destino": "tel:+573004445555" },
+    { "nombre": "Gerencia", "destino": "tel:+573006667777" }
+  ]
+}
